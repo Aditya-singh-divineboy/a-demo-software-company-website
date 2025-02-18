@@ -549,12 +549,11 @@ nav{
 }
 .count-row{
     display: flex;
-    gap: 20px;
     height: 200px;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
-.c1{
+.count-icon{
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -565,10 +564,9 @@ nav{
     justify-content: center;
     align-items: center;
 }
-.c1 i{
+.c1{
     width: 70px;
     height: 70px;
-    font-size: 35px;
     color: #0E59F2;
     border-radius: 50%;
     border-style: solid;
@@ -577,8 +575,19 @@ nav{
     text-align: center;
     padding-top: 16px;
 }
+.c1 img{
+    width: 40px;
+    height: 40px;
+}
 .count-box{
     display: flex;
     gap: 10px;
     align-items: center;
+}
+.count-content h1{
+font-size: 50px;
+}
+.count-content p{
+    font-size: 20px;
+    margin-top: -10px;
 }
