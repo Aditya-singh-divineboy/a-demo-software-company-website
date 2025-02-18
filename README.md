@@ -1,0 +1,1 @@
+I have created this website using only html and css, the only reason for uploading it on github is that I want to show what was my first design and what kind of website I am making now after learning and improving it.
