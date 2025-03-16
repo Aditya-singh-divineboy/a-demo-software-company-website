@@ -3,7 +3,11 @@
     box-sizing: border-box;
 }
 body{
+<<<<<<< HEAD
     background-color: #ffff !important;
+=======
+    background-color: #c0cfe7ac !important;
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
 }
 .head{
     background-color: #0E59F2;
@@ -23,7 +27,11 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
+<<<<<<< HEAD
     background-color: #ffff;
+=======
+    background-color: #c0cfe7ac;
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
 }
 .menu ul{
     display: flex;
@@ -112,7 +120,11 @@ nav{
     margin-left: 50px;
 
 }
+<<<<<<< HEAD
 .section_row .col1 .section_row-p{
+=======
+.section_row .col1 p{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
     font-size: 17px;
     line-height: 25px;
     margin-left: 50px;
@@ -193,7 +205,11 @@ nav{
     font-weight: 400;
     font-size: 16px;
 }
+<<<<<<< HEAD
 .overlay .overlay-p{
+=======
+.overlay p{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
    font-weight: 500;
    padding-top: 20px;
 }
@@ -244,7 +260,11 @@ nav{
     font-weight: 500;
     font-size: 16px;
 }
+<<<<<<< HEAD
 .overlay2 .overlay2-p{
+=======
+.overlay2 p{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
    font-weight: 500;
    padding-top: 20px;
 }
@@ -382,7 +402,11 @@ nav{
     margin-top: -23px;
    
 }
+<<<<<<< HEAD
 .svg-box .svg-box-p{
+=======
+.svg-box p{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
     font-size: 16px;
     font-weight: 400;
     padding: 15px;
@@ -427,7 +451,11 @@ nav{
     margin-top: -10px;
 }
 
+<<<<<<< HEAD
 .para::before,.firstp::before{
+=======
+.para::before, .firstp::before{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
     content: '';
     width: 8px;
     height: 8px;
@@ -530,7 +558,11 @@ nav{
     font-size: 20px;
     padding-bottom: 10px;
 }
+<<<<<<< HEAD
 .aicontent .aicontent-p{
+=======
+.aicontent p{
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
     font-size: 16px;
     color: #ffffff8a;
 }
@@ -552,7 +584,10 @@ nav{
     height: 200px;
     align-items: center;
     justify-content: space-evenly;
+<<<<<<< HEAD
     margin: 30px 20px 0;
+=======
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
 }
 .count-icon{
     width: 100px;
@@ -588,6 +623,7 @@ nav{
 .count-content h1{
 font-size: 50px;
 }
+<<<<<<< HEAD
 .count-content .count-content-p{
     font-size: 20px;
     margin-top: -10px;
@@ -724,3 +760,9 @@ font-size: 50px;
         transform: translatex(-100%);    
     }
 } */
+=======
+.count-content p{
+    font-size: 20px;
+    margin-top: -10px;
+}
+>>>>>>> 8cea3ad0839529206bbe0e4f8d037c1d3d65d035
